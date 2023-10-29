@@ -1,0 +1,35 @@
+#missions{
+    background-color: white;
+  
+}
+
+.mission-text{
+    line-height: 1.5;
+    font-size: 3rem;
+    color: blue
+}
+
+.mission-image{
+    width: 35%;
+    border-radius: 40px;
+    margin: 20px;
+}
+
+.carousel-control-prev-icon{
+    background-color: lightgray;
+}
+
+.carousel-control-next-icon{
+    background-color: lightgray;
+}
+
+#press{
+    background-color: white;
+    padding-bottom: 3%;
+
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 5%;
+}

@@ -1,0 +1,26 @@
+#imagess{
+    background-color: #2d202c;
+}
+
+.images-text{
+    font-size: 1rem;
+    color: white;
+    font-family: "inter";
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+.images{
+    padding: 4.5%;   
+}
+
+.greet{
+    border-radius: 100px;
+    width: 160px;
+    height: 160px;
+    transition: transform 0.15s;
+}
+
+.greet:hover{
+    transform: scale(1.5);
+}

@@ -1,0 +1,41 @@
+
+.footer-icon{
+    margin: 20px 10px;
+}
+
+.fa-facebook{
+    color: blue;
+    position: relative;
+    cursor: pointer;
+}
+
+.tool-tip{
+    position: absolute;
+    opacity: 0;
+    color: white;
+    pointer-events: none;
+    background-color: lightgray;
+    padding: 3px 6px 3px 6px;
+    margin-top: 8px;
+    border-radius: 5px;
+
+}
+
+
+.fa-facebook:hover .tool-tip{
+    opacity: 1;
+}
+
+.fa-instagram{
+    color: red;
+}
+
+
+.fa-twitter{
+    color: blue;
+}
+
+
+.fa-envelope{
+    color: gray;
+}

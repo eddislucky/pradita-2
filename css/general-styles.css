@@ -1,0 +1,77 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 { 
+    font-family: "Inter";
+    font-weight: bold;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Headings */
+.big-heading2{
+    font-family: "Open sans", "san serif";
+    font-weight: bolder;
+    font-size: 3.5rem;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.meet{
+    color: gray;
+}
+.section-heading{
+    line-height: 1.5;
+    font-size: 3rem;
+}
+
+/* Containers */
+
+.container-fliud{
+    padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section{
+    background-color: rgb(194, 61, 194);
+    color: #fff;
+  
+}
+
+.white-section{
+    background-color: #fff;
+}
+
+/* Title section */
+
+#title .container-fliud{
+    padding: 3% 15% 7%;
+    text-align: left; 
+}
+
+
+   /* .add-btn{
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    display: block;
+    font-family: "Tahoma";
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+    width: 50%;
+}
+
+.add-btn:hover{
+    opacity: 0.7;
+} */
